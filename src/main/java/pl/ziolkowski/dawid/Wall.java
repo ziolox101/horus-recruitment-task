@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-public class Wall implements Structure {
+public class Waladwawl implements Structure {
     private final List<Block> blocks;
 
     public Wall(final List<Block> blocks) {
